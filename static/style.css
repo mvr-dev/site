@@ -1,0 +1,15 @@
+.title{
+    text-align: center;
+    color:chartreuse;
+    background-color: black;
+}
+.enter{
+    text-align: center;
+}
+.choose{
+    height: 16pt;
+    text-align: center;
+}
+.contacts{
+    text-align: end;
+}
